@@ -30,10 +30,8 @@ Example:
 
 ## 4. Output
 The program will output the detected anchored maximum communities.  
-(Optional: Add specific output format details if applicable.)
 
 ## 5. Dependencies
 - C++11 or later
-- (Optional: List any external libraries if used, e.g., `OpenMP` for parallelism)
 
 ---
