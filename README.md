@@ -37,6 +37,3 @@ The program will output the detected anchored maximum communities.
 - (Optional: List any external libraries if used, e.g., `OpenMP` for parallelism)
 
 ---
-
-For questions, please contact: [Your Email]  
-Paper link: [arXiv/DOI URL] (if available)
